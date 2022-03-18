@@ -1,0 +1,25 @@
+/* prebuilt CSS V */
+button
+{
+  background-color: #361974;
+  color: #fff;
+  border: 0px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
+button:hover
+{
+  background-color: #30156f;
+  transition: 2s;
+  cursor : pointer;
+
+}
+/* prebuilt CSS ^ */
+img
+{
+  width:600px;
+  height: 400px;
+  float: right;
+  margin-right: 200px;
+}
